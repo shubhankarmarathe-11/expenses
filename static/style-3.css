@@ -1,0 +1,30 @@
+@media only screen and (max-width: 1099px) and (min-width: 737px) {
+    .exp-form{
+        right: 150px;
+        width: 50%;
+    }
+  }
+@media only screen and (max-width: 737px) and (min-width: 437px) {
+    .exp-form{
+        right: 80px;
+        width: 50%;
+    }
+  }
+@media only screen and (max-width: 437px) and (min-width: 250px) {
+    .exp-form{
+        right: 30px;
+        width: 50%;
+    }
+    .exp-form button{
+        font-size:10px;
+    }
+  }
+@media only screen and (max-width: 250px) and (min-width: 0px) {
+    .exp-form{
+        right: 30px;
+        width: 50%;
+    }
+    .exp-form button{
+        font-size:10px;
+    }
+  }
